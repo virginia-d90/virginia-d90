@@ -13,6 +13,5 @@ I am a full stack web developer currently finishing my cirriculum at Lambda Scho
 ### How to contact me
 
 * [LinkedIn](https://www.linkedin.com/in/virginia-davenport/)
-* [Email](virginialdport@gmail.com)
-
+* virginialdport@gmail.com
 
