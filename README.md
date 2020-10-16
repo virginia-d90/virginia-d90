@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome To My Github 👋
+### A little about myself
+I am a full stack web developer currently finishing my cirriculum at Lambda School. When I am not coding I'm usually either cooking or out enjoying the 300+ days of sunshine in ABQ.
 
-<!--
-**virginia-d90/virginia-d90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills and Technologies I Currently Use:
+*Nodejs
+*React
+*Python
+*Javascript
+*Redux
+*Express
 
-Here are some ideas to get you started:
+### How to contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [LinkedIn](https://www.linkedin.com/in/virginia-davenport/)
+* [Email](virginialdport@gmail.com)
+
+
