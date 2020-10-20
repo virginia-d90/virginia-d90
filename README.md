@@ -14,4 +14,4 @@ Nodejs
 
 * [LinkedIn](https://www.linkedin.com/in/virginia-davenport/)
 * virginialdport@gmail.com
-- Virginia Davenport [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)
+
