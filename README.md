@@ -9,6 +9,7 @@ Nodejs
 | Javascript
 | Redux
 | Express
+| Mapbox
 
 ### How to contact me:
 
